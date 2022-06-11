@@ -134,6 +134,8 @@ function draw() {
     if(mousePressedOver(reset)){
       restart()
     }
+    
+    console.log(debug)
   }
   
   
